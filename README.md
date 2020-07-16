@@ -2,14 +2,15 @@
  Hands-On Simulation Modeling with Python, published by Packt
 # Hands-On Simulation Modeling with Python
 
-<a href="https://www.packtpub.com/in/data/hands-on-simulation-modeling-with-python?utm_source=github&utm_medium=repository&utm_campaign=9781838985097"><img src="Cover Image URL of the Book" alt="Book Name" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/in/data/hands-on-simulation-modeling-with-python?utm_source=github&utm_medium=repository&utm_campaign=9781838985097"><img src="https://www.packtpub.com/media/catalog/product/cache/bf3310292d6e1b4ca15aeea773aca35e/9/7/9781838985097-original_42.jpeg" alt="Hands-On Simulation Modeling with Python
+" height="256px" align="right"></a>
 
 This is the code repository for [Hands-On Simulation Modeling with Python](https://www.packtpub.com/in/data/hands-on-simulation-modeling-with-python?utm_source=github&utm_medium=repository&utm_campaign=9781838985097), published by Packt.
 
 **Develop simulation models to get accurate results and enhance decision-making processes**
 
 ## What is this book about?
-Developers working with the simulation models will be able to put their knowledge to work with this practical guide. You will work with real-world data to uncover various patterns used in complex systems using Python. The book provides a hands-on approach to implementation and associated methodologies to improve or optimize systems
+Simulation modeling helps you to create digital prototypes of physical models to analyze how they work and predict their performance in the real world. With this comprehensive guide, you'll understand various computational statistical simulations using Python.
 
 This book covers the following exciting features: <First 5 What you'll learn points>
 * Gain an overview of the different types of simulation models
