@@ -1,5 +1,3 @@
-# -Hands-On-Simulation-Modeling-with-Python
- Hands-On Simulation Modeling with Python, published by Packt
 # Hands-On Simulation Modeling with Python
 
 <a href="https://www.packtpub.com/in/data/hands-on-simulation-modeling-with-python?utm_source=github&utm_medium=repository&utm_campaign=9781838985097"><img src="https://www.packtpub.com/media/catalog/product/cache/bf3310292d6e1b4ca15aeea773aca35e/9/7/9781838985097-original_42.jpeg" alt="Hands-On Simulation Modeling with Python
@@ -57,13 +55,12 @@ files/downloads/9781838985097_ColorImages.pdf](Graphics Bundle Link).
 * Practical Data Analysis Using Jupyter Notebook [[Packt]](https://www.packtpub.com/in/data/modern-python-data-analysis?utm_source=github&utm_medium=repository&utm_campaign=9781838826031) [[Amazon]](https://www.amazon.com/dp/1838826033)
 
 ## Get to Know the Author
-**	Giuseppe Ciaburro**
+**Giuseppe Ciaburro**
 holds a PhD in environmental technical physics, along with two master’s degrees. His research was focused on machine learning applications in the study of urban sound environments. He works at the Built Environment Control Laboratory at the Università degli Studi della Campania Luigi Vanvitelli, Italy. He has over 18 years’ professional experience in programming (Python, R, and MATLAB), first in the field of combustion, and then in acoustics and noise control. He has several publications to his credit
 
 
 ## Other books by the authors
-* [Mastering Linux Network Administration](https://www.packtpub.com/networking-and-servers/mastering-linux-network-administration?utm_source=github&utm_medium=repository&utm_campaign=9781784399597)
-* [Linux Mint Essentials](https://www.packtpub.com/networking-and-servers/linux-mint-essentials?utm_source=github&utm_medium=repository&utm_campaign=9781782168157)
+* [Hands-On Reinforcement Learning with R](https://www.packtpub.com/in/data/hands-on-reinforcement-learning-with-r?utm_source=github&utm_medium=repository&utm_campaign=9781789616712)
 
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
