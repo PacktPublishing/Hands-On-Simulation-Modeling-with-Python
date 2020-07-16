@@ -30,57 +30,35 @@ All of the code is organized into folders. For example, Chapter02.
 
 The code will look like the following:
 ```
-if (test expression)
-{
-  Statement upon condition is true
-}
+import random
+import statistics
+import matplotlib.pyplot as plt
 ```
 
 **Following is what you need for this book:**
-Copy and paste the Audience section from the EPIC.
+Hands-On Simulation Modeling with Python is for simulation developers and engineers, model designers, and anyone already familiar with the basic computational methods that are used to study the behavior of systems. This book will help you explore advanced simulation techniques such as Monte Carlo methods, statistical simulations, and much more using Python. Working knowledge of Python programming language is required.
 
-With the following software and hardware list you can run all code files present in the book (Chapter 1-15).
+With the following software and hardware list you can run all code files present in the book (Chapter 1-11).
 
 ### Software and Hardware List
 
 | Chapter  | Software required                   | OS required                        |
 | -------- | ------------------------------------| -----------------------------------|
-| 1        | R version 3.3.0                     | Windows, Mac OS X, and Linux (Any) |
-| 2        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 3        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 4        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 5        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 6        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 7        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 8        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 9        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 10        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 11        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 12        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 13        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 14        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 15        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
+| 1        | Python 3.6 and above                | Windows, Mac OS X, and Linux       |
 
 
-We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](Graphics Bundle Link).
+We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [http://www.packtpub.com/sites/default/
+files/downloads/9781838985097_ColorImages.pdf](Graphics Bundle Link).
 
-## Code in Action
-
-Click on the following link to see the Code in Action:
-
-[Placeholder link](www.youtube.com/URL)
 
 ### Related products <Other books you may enjoy>
-* Linux: Powerful Server Administration [[Packt]](https://www.packtpub.com/networking-and-servers/linux-powerful-server-administration?utm_source=github&utm_medium=repository&utm_campaign=9781788293778) [[Amazon]](https://www.amazon.com/dp/1788293770)
+* Reinforcement Learning Algorithms with Python [[Packt]](https://www.packtpub.com/in/data/hands-on-reinforcement-learning-algorithms-with-python?utm_source=github&utm_medium=repository&utm_campaign=9781789131116) [[Amazon]](https://www.amazon.com/dp/1789131111)
 
-* Linux Device Drivers Development [[Packt]](https://www.packtpub.com/networking-and-servers/linux-device-drivers-development?utm_source=github&utm_medium=repository&utm_campaign=9781785280009) [[Amazon]](https://www.amazon.com/dp/1788293770)
+* Practical Data Analysis Using Jupyter Notebook [[Packt]](https://www.packtpub.com/in/data/modern-python-data-analysis?utm_source=github&utm_medium=repository&utm_campaign=9781838826031) [[Amazon]](https://www.amazon.com/dp/1838826033)
 
-## Get to Know the Author(s)
-**Author Name**
-Bio
-
-**Author Name**
-Bio
+## Get to Know the Author
+**	Giuseppe Ciaburro**
+holds a PhD in environmental technical physics, along with two master’s degrees. His research was focused on machine learning applications in the study of urban sound environments. He works at the Built Environment Control Laboratory at the Università degli Studi della Campania Luigi Vanvitelli, Italy. He has over 18 years’ professional experience in programming (Python, R, and MATLAB), first in the field of combustion, and then in acoustics and noise control. He has several publications to his credit
 
 
 ## Other books by the authors
