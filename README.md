@@ -45,8 +45,7 @@ With the following software and hardware list you can run all code files present
 | 1        | Python 3.6 and above                | Windows, Mac OS X, and Linux       |
 
 
-We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [http://www.packtpub.com/sites/default/
-files/downloads/9781838985097_ColorImages.pdf](Graphics Bundle Link).
+We also provide a PDF file that has color images of the screenshots/diagrams used in this book [http://www.packtpub.com/sites/default/files/downloads/9781838985097_ColorImages.pdf](Graphics Bundle Link).
 
 
 ### Related products <Other books you may enjoy>
